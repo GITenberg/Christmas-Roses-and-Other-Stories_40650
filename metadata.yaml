@@ -1,0 +1,30 @@
+_repo: Christmas-Roses-and-Other-Stories_40650
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40650-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Sedgwick, Anne Douglas
+    birthdate: 1873
+    deathdate: 1935
+    gutenberg_agent_id: '2634'
+    url: http://www.gutenberg.org/2009/agents/2634
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Douglas_Sedgwick
+description: ''
+gutenberg_issued: '2012-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40650'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
+- !lcc 'PR'
+tableOfContents: Christmas roses -- Hepaticas -- Daffodils -- Pansies -- Pink foxgloves
+  -- Carnations -- Staking a larkspur -- Evening primroses -- Autumn crocuses.
+title: Christmas Roses and Other Stories
+url: http://www.gutenberg.org/ebooks/40650
